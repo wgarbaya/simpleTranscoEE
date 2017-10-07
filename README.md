@@ -1,2 +1,2 @@
 # simpleTranscoEE
-Simple Transcodification Service using pain J2EE
+Simple Transcodification service using pain J2EE
